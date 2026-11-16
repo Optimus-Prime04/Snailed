@@ -12,4 +12,4 @@ Development Status: Work in Progress
 
 The game is still under development. Most core mechanics and the main menu are implemented, but some features remain unfinished. In particular, the snail-to-player collision and Game Over transition are currently experiencing technical issues that I haven't been able to resolve yet.
 
-This is an ongoing solo game jam project, and further improvements are planned.
+This is an ongoing solo game jam project, and further improvements are planned
